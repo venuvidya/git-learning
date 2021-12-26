@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Venuvidya
+	email = kotavenuvidya@gmail.com
+# Please adapt and uncomment the following lines:
+#	name = unknown
+#	email = Anilkota@LAPTOP-HC4A8VF6.(none)
+[core]
+	editor = notepad++.exe -multilnst -nonsession
